@@ -38,7 +38,7 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name:Priyanka k
+### Name:Priyanka K
 
 ### Register Number:212223230162
 
